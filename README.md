@@ -7,11 +7,12 @@ Curso: Residência Tecnológica em Sistemas Embarcados
 
 Instituição: EmbarcaTech - HBr
 
-Brasília, ___ de 2025
+Brasília, maio de 2025
 
 ---
 
 ## Galton Board (Digital Twin)
+Não há colisões entre as bolas. Apenas entre os pinos e as bolas.
 
 ---
 
